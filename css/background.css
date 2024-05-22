@@ -4,4 +4,7 @@ body {
 .Ground {
   background-color: #1dd71d;
   margin-bottom: 100px;
+  display: flex;
+  align-self: flex-end;
+  
 }
