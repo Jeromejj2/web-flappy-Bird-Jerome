@@ -3,7 +3,5 @@ body {
   }
 .Ground {
   background-color: #1dd71d;
-  height: 70px
-  display: flex;
-  flex-direction: row;
+  margin-bottom: 0;
 }
