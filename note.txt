@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> </title>
+  </head>
+  <body>
+
+    <script>
+
+    </script>
+  </body>
+</html>
+
+
+<style>
+  border: ;
+  background-color: ;
+  border-color: ;
+  border-style: ;
+  border-width: ;
+  border-radius: 0px;
+  color:;
+  padding-right: ;
+  padding-left: ;
+  padding-top: ;
+  padding-bottom: ;
+  cursor: ;
+  margin-right: ;
+  margin-left: ;
+  margin-top: ;
+  margin-bottom: ;
+  transition: ;
+  font-weight: ;
+  font-size: ;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);  
+</style>
+    
+
+html
+
+<button class="   ">   </button>
+
+buttons
+
+
+
+
+<div class="div-video"> 
+      <img  class="thumbnail"  src="thumbnail/thumbnail-?.webp">
+      <p class="title">
+        
+      </p>
+  
+      <p class="author">
+        
+     </p>
+      <p class="stats">
+        
+      </p>
+    </div>
+
+script
+  
+  let CartQ = 0;
+
+  CartQ += 3
+
+  CartQ++ /= += 1
+
+
+
+script
